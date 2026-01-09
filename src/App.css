@@ -42,7 +42,7 @@
 }
 
 .menu {
-  width: 20rem;
+  /* width: 30rem; */
   display: flex;
   justify-content: space-evenly;
 }
